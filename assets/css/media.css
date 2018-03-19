@@ -2,4 +2,7 @@
   .main h1{
     font-size: 3.5em;
   }
+  .parallax-container {
+    height: 500px;
+  }
 }
