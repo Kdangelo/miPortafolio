@@ -1,3 +1,3 @@
 # Tipografía y Colores
 
-![alt text](/public/images/paleta-colores.png "Paleta de colores")
+![alt text](/assets/images/paleta-colores.png "Paleta de colores")
