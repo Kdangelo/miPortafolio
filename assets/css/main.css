@@ -58,10 +58,16 @@ html,body{
     height: 100%;
 }
 
+/* Parrallax */
+
 .parallax-container {
   height: 350px;
 }
-    
+ 
+/* Proyectos */
+
+
+
 /* otra */
 .cover{
   width: 100%;
