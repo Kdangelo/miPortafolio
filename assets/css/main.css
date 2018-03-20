@@ -95,10 +95,6 @@ html,body{
   justify-content: center;
 }
 
-.about img{
-
-}
-
 .about p{
   line-height: 2em;
 }
@@ -117,6 +113,8 @@ html,body{
   width: 70%;
   z-index: -1;
 } */
+
+/* Herramientas */
 
 /* Contacto */
 
