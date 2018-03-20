@@ -1,8 +1,20 @@
 @media (min-width: 960px){
+  
   .main h1{
     font-size: 3.5em;
   }
+
   .parallax-container {
     height: 500px;
   }
+
+  .social a{
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 90px;
+  }
+  .social a:last-of-type{
+    margin-right: 0px;
+  }
+    
 }
