@@ -1,9 +1,7 @@
 $(document).ready(function() {
   $('.parallax').parallax();
+  $(".button-collapse").sideNav();
 
-  document.querySelector('.menu')
-    .addEventListener('click', function() {
-      document.querySelector('.menu-screen').classList.add('.active');
-    });
+
 });
 
