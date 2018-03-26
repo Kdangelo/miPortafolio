@@ -1,5 +1,7 @@
 @media (min-width: 960px){
-  
+  .main{
+    margin: 6%;
+  }
   .main h1{
     font-size: 3.5em;
   }
@@ -17,4 +19,7 @@
     margin-right: 0px;
   }
     
+}
+#sidenav-overlay {
+position: unset!important;
 }

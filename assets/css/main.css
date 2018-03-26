@@ -194,6 +194,7 @@ html,body{
 
 .about p{
   line-height: 2em;
+  font-size: 1.3em;
 }
 
 /* .about p:nth-of-type(1){
