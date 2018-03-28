@@ -10,6 +10,10 @@ html,body{
   background-color: #FF4757 !important;
 }
 
+.logito{
+  margin-left: 2% !important;
+}
+
 /* Navegacion */
 
 .menu{
@@ -111,6 +115,7 @@ html,body{
   text-align: center;
   align-items: center;
   justify-content: center;
+  margin-top: 12%;
 }
 
 .main h1{
@@ -130,8 +135,10 @@ html,body{
 
 .main-img{
   width: 100%;
-  margin-bottom: 15%;
+  /* margin-bottom: 10%; */
   margin-top: 10%;
+  box-sizing: border-box !important;
+  padding: 0 !important;
 }
 
 .btn2{
@@ -162,14 +169,18 @@ html,body{
 
 /* Proyectos */
 
+#projects{
+  background-color: #f8efea;
+}
+
 .projects{
   margin-top: 90px;
   margin-bottom: 0px;
-  text-align: center;
+  text-align: center;  
 }
 
 .projects  p.title{
-  font-weight: 200;
+  font-weight: 400;
   font-size: 2.5em;
 }
 
@@ -186,7 +197,7 @@ html,body{
 }
 
 .aboutTitle  p.title{
-  font-weight: 200;
+  font-weight: 400;
   font-size: 2.5em;
 }
 
@@ -218,7 +229,8 @@ html,body{
 /* Herramientas */
 
 #skill{
-  height: 100vh;
+  background-color: #f8efea;
+  /* height: 100vh; */
 }
 
 .skiller{
@@ -229,12 +241,12 @@ html,body{
 
 .social{
   margin-top: 90px;
-  margin-bottom: 90px;
+  margin-bottom: 105px;
   text-align: center;
 }
 
 .social  p.title{
-  font-weight: 200;
+  font-weight: 400;
   font-size: 2.5em;
 }
 

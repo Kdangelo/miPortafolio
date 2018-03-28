@@ -14,13 +14,22 @@
 
   .main p{
     margin-bottom: 5%;
+    margin-top: 5%;
+  }
+
+  .main p:nth-of-type(2){
+    margin-bottom: 2%;
   }
 
   .main-img{
-    margin-top: 5%;
+    margin-top: 3%;
   } 
 
   #projects{
+    height: 100vh;
+  }
+
+  #skill{
     height: 100vh;
   }
 
@@ -35,6 +44,12 @@
   }
   .social a:last-of-type{
     margin-right: 0px;
+  }
+
+  .titleContact{
+    margin-bottom: 30%;
+    font-weight: 200;
+    font-size: 2.5em;
   }
     
 }
