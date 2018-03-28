@@ -1,6 +1,7 @@
 html,body{
   font-family: 'Libre Franklin', sans-serif;
   margin: 0px;
+  
 }
 
 /* Nav */
@@ -105,7 +106,7 @@ html,body{
 /* Main section*/
 
 .main{
-  margin: 2%;
+  margin: 5%;
   min-height: 100vh;
   text-align: center;
   align-items: center;
@@ -124,11 +125,13 @@ html,body{
   letter-spacing: 0.3em;
   line-height: 1.5em;
   font-size: 1.2em;
+  margin-bottom: 20%;
 }
 
 .main-img{
   width: 100%;
-  margin-bottom: 90px;
+  margin-bottom: 15%;
+  margin-top: 10%;
 }
 
 .btn2{
@@ -157,12 +160,6 @@ html,body{
     height: 100%;
 }
 
-/* Parrallax */
-
-.parallax-container {
-  height: 330px;
-}
- 
 /* Proyectos */
 
 .projects{
@@ -220,10 +217,13 @@ html,body{
 
 /* Herramientas */
 
+#skill{
+  height: 100vh;
+}
+
 .skiller{
   margin: 5% 2%;
 }
-
 
 /* Contacto */
 

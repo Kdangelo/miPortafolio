@@ -1,13 +1,31 @@
 @media (min-width: 960px){
+  
+  .home{
+    height: 100vh;
+  }
+  
   .main{
     margin: 6%;
   }
+  
   .main h1{
     font-size: 3.5em;
   }
 
-  .parallax-container {
-    height: 500px;
+  .main p{
+    margin-bottom: 5%;
+  }
+
+  .main-img{
+    margin-top: 5%;
+  } 
+
+  #projects{
+    height: 100vh;
+  }
+
+  #about{
+    height: 100vh;
   }
 
   .social a{
